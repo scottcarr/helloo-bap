@@ -1,0 +1,3 @@
+PKG core bap bap-primus
+B _build/src
+FLG -short-paths
